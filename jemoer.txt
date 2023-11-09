@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Fakka Matis is vreemd
+=======
+Fakka allesgoedvandaag
+>>>>>>> 9e1d5a1b7dfe21c3bf76f33c3554d49c17bf5ba0
